@@ -1,0 +1,5 @@
+f=open("stu1.txt","x")
+f.write("hello\n")
+f.write("everyone\n")
+f.write("how are you")
+f.close()

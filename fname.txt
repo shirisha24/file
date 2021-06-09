@@ -1,0 +1,5 @@
+variable
+operators
+if else
+loop
+list

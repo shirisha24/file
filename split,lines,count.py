@@ -1,0 +1,6 @@
+l=open("cities_hyd.txt","r")
+data=l.read()
+numberofchars=len(data)
+numberofwords=len(data.split())
+numberoflines=len(data.splitlines())
+print(numberoflines)

@@ -1,0 +1,6 @@
+f=open("q3.txt","a+")
+s=f.write("interpreter check line by line,after it will show error")
+print(s)
+s1=f.write("python is scripiting language,it used to creat web applications,software development")
+print(s1)
+f.close()

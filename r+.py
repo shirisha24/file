@@ -1,0 +1,6 @@
+f=open("q1.txt","r+")
+s=f.read()
+print(s)
+s1=f.write("I am siri ,i am from telangana")
+print(s1)
+f.close()
